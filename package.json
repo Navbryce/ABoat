@@ -30,7 +30,7 @@
     "body-parser": "^1.18.2",
     "core-js": "^2.4.1",
     "express": "^4.16.2",
-    "mongoose": "^5.0.12",
+    "mongoose": "^5.7.5",
     "promise": "^8.0.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
